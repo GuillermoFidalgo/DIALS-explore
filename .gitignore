@@ -3,3 +3,5 @@
 *.parquet
 *.root
 *.npy
+.swanproject
+.sys*
