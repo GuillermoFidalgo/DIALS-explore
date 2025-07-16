@@ -1,0 +1,14 @@
+name: DIALS
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - jupyterlab
+  - pandas
+  - scikit-hep
+  - ipywidgets
+  - pyarrow
+  - pip
+  - pip: 
+    - cmsdials 
+prefix: /home/guillermo/miniforge3/envs/DIALS
